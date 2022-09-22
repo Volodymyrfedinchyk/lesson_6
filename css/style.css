@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body{
+	font-family: 'Lato', sans-serif;
+	line-height: 25px;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.brain{
+	background-color: #2e8b57;
+	font-size: 40px;
+	text-align: center;
+	padding-top:50px;
+	min-height: 80px;
+	font-weight:700;
+	margin-bottom: 100px;
+}
+.brain a{
+	color: white;
+}
+.brain a:hover{
+	color: white;
+	text-decoration: none;
+}
+.entry{
+	max-width: 800px;
+	margin: 0 auto ;
+	background: white;
+	
+}
+h1{
+	font-size: 50px;
+	font-weight: 900;
+	margin-bottom: 30px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	background: white;
+	padding: 0px 0 20px;
+	min-height: 1400px;
+}
+
+
+img{
+	margin-bottom: 10px;
+	max-width: 100%;
+	
+}
+
+.entry p{
+	margin-bottom: 50px;
+	
+}
+h2{
+	font-weight: 700;
+	font-size: 35px;
+	margin-bottom: 30px;
+	line-height: 35px;
+}
+p{
+	margin-bottom: 25px;
+	
+}
+
+ul li{
+	list-style:disc;
+}
+
+a{
+	color: blue;
+	
+}
+
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+.number{
+	font-size: 74px;
+	font-weight: 700;
+	text-align: center;
+	padding-top: 50px;
+	margin-bottom: 40px;
+	color: #f4eeee;
+}
+h3{
+	font-size: 25px;
+	font-weight: 700;
+	text-align: center;
+}
+.online-course{
+	max-width: 814px;
+	min-height: 100%;
+	margin: 0 auto;
+}
+.statistics{
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	text-align: center;
+	color: #1E212C;
+	margin-bottom: 40px;
+}
+.img{
+	border-radius: 4px;
+	margin-bottom: 50px;
+}
+.vulputate{
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 30px;
+}
+.sapien{
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin-bottom: 50px;
+}
+.ipsum{
+	padding-left: 58px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 50px;
+}
+.amet{
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin-bottom: 24px;
+}
+.list{
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin-bottom: 24px;
+}
+.purus{
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+.dolor{
+	display:block;
+	border: 10px solid #1E212C;
+	margin-bottom: 50px;
+	overflow: hidden;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+}
+.culpa{
+	display: inline;
+	border: 2px dashed chartreuse
+}
+.voluptatem{
+	display: inline-block;
+	border: 20px solid #1E212C;
+	margin-bottom: 50px;
+	
+}
+.ameta{
+	display: inline-block;
+	border: 5px dashed chartreuse
+
+}
+.omnis{
+	display: inline-block;
+}
+.esse{
+	border-top: 5px dotted #2e8b57;
+	border-right: 5px solid rebeccapurple;
+	border-bottom: 10px dashed #000;
+	border-left: 3px solid #000;
+}
+.radius{
+	border-radius: 100px;
+}
+.hic{
+	outline:1px solid #000;
+	box-shadow: 5px 5px 10px 5px #000, inset 5px 5px 10px 5px rgb(197, 26, 26);
+	border-radius: 30px;
+	padding: 15px;
+}
+
+.pointer{
+	display: inline-block;
+}
+.atione{
+	display: inline-block;
+	opacity: 0;
+}
+.pora{
+	visibility: hidden;
+
+}
+
